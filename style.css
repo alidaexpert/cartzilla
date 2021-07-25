@@ -59,6 +59,9 @@
         top: -170px;
         left: 80px;
     }
+    .text-lg-nowrap {
+        white-space: nowrap;
+    }
 }
 
 .btn-pink {
